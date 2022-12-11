@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Car Bazar",
+        "intro": "This website is about to buy and sell second hand car.",
+        "details": [
+            "This website is about to sell second hand cars.", 
+            "User can create account as buyer or seller. Upon login by google treat as buyer.",
+            "Seller can add and manage his/her product on his/her dashboard.",
+            "Buyer can see his orders on his dashboard.",
+            "Admin can manage and see all seller and buyers on his/her dashboard.",
+            "Only advertise product show on homepage.",
+            "Showing product category wise. Categoy route is a private route. Only logged in user can go this route.",
+            "Blog page have some interesting questions and answer."
+        ],
+        "liveLink" : "https://car-bazar-1380d.web.app",
+        "clientLink": "https://github.com/sadif50/car-bazar-cleint",
+        "serverLink": "https://github.com/sadif50/car-bazar-server",
+        "cover_photo": "/images/car/car.png",
+        "mobilePhoto": "/images/car/carBazarMobile.png",
+        "tabPhoto": "/images/car/carBazarTablet.png",
+        "mainPhoto": "/images/car/carBazar.png",
+        "tech": [
+            "React-query",
+            "Axios",
+            "Tailwind CSS",
+            "Daisyui",
+            "Date-fns",
+            "Firebase",
+            "React-hook-form",
+            "React-icons",
+            "React-router-dom",
+            "React-toastify",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Dent Care",
+        "intro": "This is a dentist portfolio website with his/her provided services.",
+        "details": [
+            "This website is about a dentist and his services.",
+            "It is a React single page application(SPA)",
+            "User can add a review to any service",
+            "User can add a service",
+            "All review of a user can see in the My Reviews",
+            "User can Edit or Delete Their review.",
+            "Only Email/Password Based Loged in user can see their all review in the My Reviews page. Otherwise He/She will be logged out automatically. (This will happen for JWT token varification).",
+            "JWT verify added only for those user who logged in with email/password.",
+            "Blog page have some interesting questions and answer."
+        ],
+        "liveLink" : "https://dent-care-df848.web.app",
+        "clientLink": "https://github.com/sadif50/dent-care-client",
+        "serverLink": "https://github.com/sadif50/dent-care-server",
+        "cover_photo": "/images/dent/dent.png",
+        "mobilePhoto": "/images/dent/dentMobile.png",
+        "tabPhoto": "/images/dent/dentTab.png",
+        "mainPhoto": "/images/dent/dentCare.png",
+        "tech": [
+            "React-Bootstrap",
+            "Firebase",
+            "React-icons",
+            "React photo view",
+            "React-router-dom",
+            "React-toastify",
+            "JWT",
+            "React Slick Slider",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "DreamWar",
+        "intro": "This site is about to learn programming languages online.",
+        "details": [
+            "This website is about to learn programming language.",
+            "This website is based on ReactJs single-page-aplicaton.",
+            "You can log in and register as new user with Google, GitHub or Email and Password.",
+            "You need to loged in to go to checkout page of any course.",
+            "If you try to go checkout page without log in, you will be redirected to log in page. After Successfull log in, again you will be redirect to your previous checkout page.",
+            "On Courses page, You can see our best courses right side of this page.",
+            "You can find frequently asked questions in FAQ page."
+        ],
+        "liveLink" : "https://dream-war-602c1.web.app/",
+        "clientLink": "https://github.com/sadif50/dream-war-client",
+        "serverLink": "https://github.com/sadif50/dream-war-server",
+        "cover_photo": "/images/dream/dream.png",
+        "mobilePhoto": "/images/dream/dreamMobile.png",
+        "tabPhoto": "/images/dream/dreamTab.png",
+        "mainPhoto": "/images/dream/dreamWar.png",
+        "tech": [
+            "React-Bootstrap",
+            "Firebase",
+            "React-icons",
+            "React photo view",
+            "React-router-dom",
+            "React-to-pdf",
+            "Context API",
+            "Node.js",
+            "Express.js"
+        ]
+    }
+]
